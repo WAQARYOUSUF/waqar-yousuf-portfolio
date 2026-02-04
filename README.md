@@ -4,7 +4,7 @@ Welcome to my personal portfolio website.
 This website showcases my background, skills, and projects in **Data Analytics and Business Intelligence**.
 
 🌐 **Live Website:**  
-https://your-netlify-link.netlify.app
+https://waqar-yousuf-portfolio.netlify.app/
 
 ---
 
